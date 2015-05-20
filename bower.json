@@ -1,0 +1,10 @@
+{
+  "name": "duckduckgo-colors",
+  "version": "0.0.1",
+  "homepage": "https://github.com/duckduckgo/duckduckgo-colors",
+  "authors": [
+    "Brian <brian@duckduckgo.com>"
+  ],
+  "description": "Standard colors used by DuckDuckGo",
+  "license": "MIT"
+}
